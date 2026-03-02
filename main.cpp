@@ -10,4 +10,6 @@ int main() {
   Factorizer::prime_factors(35);
   Factorizer::prime_factors(17);
   Factorizer::prime_factors(24);
+  Factorizer::prime_factors(1679);
+  Factorizer::prime_factors(1575849);
 }
